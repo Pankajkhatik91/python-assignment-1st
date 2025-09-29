@@ -1,2 +1,10 @@
 # python-assignment-1st
-basic python modul
+Task 1
+
+
+Task 2
+
+both tasks code are in Main.py.
+
+Thanks 
+Pankaj
