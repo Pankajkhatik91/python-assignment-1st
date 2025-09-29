@@ -14,7 +14,7 @@ print("multiplication", (a*b))
 print("division", (a/b))
 
 print("....................")
-:q!
+
 
 
 
